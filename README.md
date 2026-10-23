@@ -1,6 +1,6 @@
 <div align="center">
 
-![GEHU Robotics & Automation Club](profile/assets/gehu-robotics-official-banner.jpg)
+![GEHU Robotics & Automation Club](https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-robotics-official-banner.jpg)
 
 # 🤖 Robotics & Automation Club
 ### Graphic Era Hill University (GEHU), Bhimtal Campus
@@ -26,14 +26,14 @@ The **Robotics & Automation Club** at **Graphic Era Hill University (GEHU)** is 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="profile/assets/gehu-robotics-team-official-blazer.jpg" width="100%" alt="Official Executive Leadership Body" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-robotics-team-official-blazer.jpg" width="100%" alt="Official Executive Leadership Body" style="border-radius: 8px;" />
       <br />
       <b>Official Executive Leadership Body</b>
       <br />
       <i>President Parth Dalakoti and Core Officers in University Blazers</i>
     </td>
     <td width="50%" align="center">
-      <img src="profile/assets/gehu-robotics-faculty-mentor-executive-body.jpg" width="100%" alt="Faculty Advisory & Robotics Core" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-robotics-faculty-mentor-executive-body.jpg" width="100%" alt="Faculty Advisory & Robotics Core" style="border-radius: 8px;" />
       <br />
       <b>Faculty Advisory & Department Mentorship</b>
       <br />
@@ -51,14 +51,14 @@ Our competitive robotics division builds high-durability combat bots and autonom
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="profile/assets/robowar-combat-bot-arena-battle.jpg" width="100%" alt="National RoboWar Arena Combat" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/robowar-combat-bot-arena-battle.jpg" width="100%" alt="National RoboWar Arena Combat" style="border-radius: 8px;" />
       <br />
       <b>National RoboWar Arena Championship</b>
       <br />
       <i>5th Position National Combat Bot deployed inside the steel arena pit</i>
     </td>
     <td width="50%" align="center">
-      <img src="profile/assets/robowar-internal-chassis-smartdriveduo.jpg" width="100%" alt="Internal Chassis Architecture" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/robowar-internal-chassis-smartdriveduo.jpg" width="100%" alt="Internal Chassis Architecture" style="border-radius: 8px;" />
       <br />
       <b>Internal Power & Drive Architecture</b>
       <br />
@@ -76,14 +76,14 @@ Beyond competitive robotics, the club hosts intensive hands-on workshops in micr
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="profile/assets/parth-dalakoti-gehu-student-mentorship.jpg" width="100%" alt="Parth Dalakoti Mentoring Students" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/parth-dalakoti-gehu-student-mentorship.jpg" width="100%" alt="Parth Dalakoti Mentoring Students" style="border-radius: 8px;" />
       <br />
       <b>Hands-on Circuit & Firmware Mentorship</b>
       <br />
       <i>Parth Dalakoti leading embedded systems seminar in the computer lab</i>
     </td>
     <td width="50%" align="center">
-      <img src="profile/assets/gehu-student-cad-programming-lab.jpg" width="100%" alt="Students in CAD Lab" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-student-cad-programming-lab.jpg" width="100%" alt="Students in CAD Lab" style="border-radius: 8px;" />
       <br />
       <b>Workstation Microcontroller Programming</b>
       <br />
@@ -92,14 +92,14 @@ Beyond competitive robotics, the club hosts intensive hands-on workshops in micr
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="profile/assets/gehu-robotics-workshop-overview-command-bench.jpg" width="100%" alt="Robotics Command Center" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-robotics-workshop-overview-command-bench.jpg" width="100%" alt="Robotics Command Center" style="border-radius: 8px;" />
       <br />
       <b>Robotics Workshop Command Center</b>
       <br />
       <i>Multi-rover bench, IMAX B6 LiPo chargers, breadboard trainers & telemetry</i>
     </td>
     <td width="50%" align="center">
-      <img src="profile/assets/gehu-robotics-seminar-illuminated-bench.jpg" width="100%" alt="Illuminated Demonstration Bench" style="border-radius: 8px;" />
+      <img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-robotics-seminar-illuminated-bench.jpg" width="100%" alt="Illuminated Demonstration Bench" style="border-radius: 8px;" />
       <br />
       <b>Live Hardware Demonstration</b>
       <br />
@@ -111,7 +111,7 @@ Beyond competitive robotics, the club hosts intensive hands-on workshops in micr
 <div align="center">
 
 ### 🌄 Campus Outdoor Robotics Deployment
-<img src="profile/assets/gehu-robotics-campus-outdoor-cohort.jpg" width="95%" alt="GEHU Robotics Campus Cohort" style="border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-robotics-campus-outdoor-cohort.jpg" width="95%" alt="GEHU Robotics Campus Cohort" style="border-radius: 8px;" />
 <br />
 <i>GEHU Robotics & Automation Club Cohort on Campus with Competition Rovers</i>
 
