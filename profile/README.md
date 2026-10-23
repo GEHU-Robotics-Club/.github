@@ -1,23 +1,29 @@
 <div align="center">
 
-![GEHU Robotics & Automation Club](https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-robotics-official-banner.jpg)
+<img src="https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-robotics-club-logo.jpg" width="220" alt="GEHU Robotics & Automation Club Official Emblem" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
 
 # 🤖 Robotics & Automation Club
 ### Graphic Era Hill University (GEHU), Bhimtal Campus
-**Official Open-Source Engineering Platform • Autonomous Systems • National Competition Fleet**
+**Department of Electronics & Communication Engineering (ECE)**  
+*Official Open-Source Engineering Platform • Autonomous Systems • National Competition Fleet*
 
 [![University](https://img.shields.io/badge/Graphic%20Era%20Hill%20University-Bhimtal%20Campus-blue.svg?style=for-the-badge&logo=google-classroom)](https://gehu.ac.in)
+[![Department](https://img.shields.io/badge/Department-ECE-orange.svg?style=for-the-badge)]()
 [![Leadership](https://img.shields.io/badge/Club%20President-Parth%20Dalakoti-ff69b4.svg?style=for-the-badge&logo=github)](https://github.com/ParthDalakoti)
 [![National Rank](https://img.shields.io/badge/National%20RoboWar-5th%20Position-gold.svg?style=for-the-badge&logo=trophy)]()
 [![Hardware Stack](https://img.shields.io/badge/Hardware-ESP32%20%7C%20STM32%20%7C%20Arduino-success.svg?style=for-the-badge&logo=arduino)]()
 
 ---
 
+![GEHU Robotics Club Banner](https://raw.githubusercontent.com/GEHU-Robotics-Club/.github/main/profile/assets/gehu-robotics-official-banner.jpg)
+
 </div>
 
 ## 📌 Executive Overview & Mission
 
-The **Robotics & Automation Club** at **Graphic Era Hill University (GEHU)** is a student-led robotics research and engineering club founded to drive hands-on excellence in embedded systems, competitive combat robotics, autonomous navigation, and IoT telemetry. Under the leadership of **Parth Dalakoti** (Club President), our club designs, fabricates, programs, and deploys high-performance robotics hardware from bare-metal firmware to custom welded combat chassis.
+The **Robotics & Automation Club** at **Graphic Era Hill University (GEHU)** is the premier student-led robotics research and engineering club under the **Department of Electronics & Communication Engineering (ECE)**. Founded to drive hands-on excellence in embedded systems, competitive combat robotics, autonomous navigation, and IoT telemetry, the club bridges academic theory with national-tier competitive robotics.
+
+Under the leadership of **Parth Dalakoti** (Club President), our club designs, fabricates, programs, and deploys high-performance robotics hardware from bare-metal firmware to custom welded combat chassis.
 
 ---
 
@@ -160,6 +166,7 @@ The club lab maintains a dedicated fleet of hardware development platforms:
 ## 🤝 Connect with the Club
 
 - **Club President:** [Parth Dalakoti](https://github.com/ParthDalakoti)
+- **Department:** Department of Electronics & Communication Engineering (ECE)
 - **Institution:** [Graphic Era Hill University](https://gehu.ac.in)
 - **Campus:** Bhimtal Campus, Nainital District, Uttarakhand, India 🇮🇳
 - **Inquiries & Collaborations:** parthdalakoti482@gmail.com
